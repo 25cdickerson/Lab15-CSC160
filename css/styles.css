@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+}
+
+table {
+  border: black 2px solid;
+}
+
+th {
+  border: black 1px solid;
+}
+
+td {
+  border: black 1px solid;
+}
+
+.b,
+.reset {
+  border: black 1px solid;
+  background-color: gray;
+  float: left;
+  width: 100px;
+  height: 55px;
+  margin-left: 10px;
+  text-align: center;
+}
